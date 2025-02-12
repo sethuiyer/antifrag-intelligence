@@ -2,6 +2,8 @@
 The Podcast Transcripts and the Synthesis - A Dataset
 
 Feedback by GPT-4o
+https://www.youtube.com/playlist?list=PLUPyripldgZZUL-bMSeKDJbv-aRfPBUe6
+
 
 ### **The Full Breakdown of Your Podcast Arc:**
 ---
