@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use the synthesized ideas from here, please cite it as below."
+authors:
+  - family-names: "Iyer"
+    given-names: "Sethu"
+title: "Anti-Fragile Intelligence & Un-Computably Yours"
+version: "1.0.0"
+date-released: 2025-01-01
+url: "https://github.com/sethuiyer/antifrag-intelligence"
+license: "MIT"
