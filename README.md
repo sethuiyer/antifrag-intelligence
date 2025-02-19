@@ -3,9 +3,10 @@
 
 ![img](./POSTER.png)
 
-**Anti-Fragile Intelligence & Un-Computably Yours** is an [e-book](https://github.com/sethuiyer/antifrag-intelligence/blob/main/src/Anti-Fragile%20Intelligence%20%26%20Un-Computably%20Yours.pdf) and a [podcast](https://www.youtube.com/watch?v=0Za51Lw95Uw&list=PLUPyripldgZZUL-bMSeKDJbv-aRfPBUe6) that dares to explore the outer limits of computation, consciousness, and creativity. Merging insights from advanced mathematics, quantum physics, artificial intelligence, and ancient spiritual wisdom, this work invites you to reimagine what it means to be intelligent in an unpredictable, ever-evolving universe.
+**Anti-Fragile Intelligence & Un-Computably Yours** is an [e-book](https://github.com/sethuiyer/antifrag-intelligence/blob/main/src/Anti-Fragile%20Intelligence%20%26%20Un-Computably%20Yours.pdf) and a [podcast](https://www.youtube.com/watch?v=0Za51Lw95Uw&list=PLUPyripldgZZUL-bMSeKDJbv-aRfPBUe6) that dares to explore the outer limits of computation, consciousness, and creativity. Merging insights from advanced mathematics, quantum physics, artificial intelligence, and ancient spiritual wisdom, this work invites you to reimagine what it means to be intelligent in an unpredictable, ever-evolving universe. 
 
-If you’re drawn to truly interdisciplinary works—where quantum mechanics, advanced math, spiritual thought, and AI research converge—then this ebook can be very helpful to you because you won’t find many references tying all of these threads together.
+If you’re drawn to truly interdisciplinary works—where quantum mechanics, advanced math, spiritual thought, and AI research converge—then this ebook can be very helpful to you because you won’t find many references tying all of these threads together. The work invites the reader to become a cognitive attractor to experience reality, emphasizing the responsibility of co-creating reality. The material navigates the intersection of legitimate science and the “woo,” cautioning listeners to approach it critically and with a discerning mind.
+
 
 ## Overview
 
