@@ -1,0 +1,239 @@
+Below is a concise, project-tailored "About the Author" draft based on information from the provided materials:
+
+---
+
+**About the Author**
+
+**Sethu R. Iyer** is a Data Scientist, AI Researcher, and visionary behind the Anti-Fragile Intelligence initiative. With over six years of experience in advanced analytics, machine learning, and large-scale computational systems, Sethu has consistently blended rigorous research with real-world application. 
+
+A dual-degree graduate (Masters in Mathematics and Bachelors in Computer Science) from Birla Institute of Technology and Science, Pilani, Sethu has delved into diverse fields—from quantum computing and graph theory to interpretability metrics for large language models. His professional experience includes pioneering next-generation AI solutions at Jio Platforms Ltd and Amelia/IPSoft, where he led efforts in AutoML platforms, multilingual medical entity retrieval systems, and large language model optimization techniques such as QLoRA.
+
+Beyond formal research, Sethu’s dedication to “learning out loud” has driven him to share insights through the **Anti-Fragile Intelligence** project, encompassing podcasts, workshops, and deep-dive explorations of AI, mathematics, and consciousness. His work bridges ancient philosophical concepts—like the self-referential loops found in Vedanta—with modern computational theories, underscoring the profound interplay between technology and human ingenuity.
+
+Driven by a belief in lifelong learning and collaboration, Sethu continues to mentor, speak, and develop open-source resources for the global AI community. He views antifragility not just as an abstract ideal, but as a practical framework—one that empowers individuals and organizations to thrive amid uncertainty, complexity, and disruptive innovation.
+
+---
+
+tree
+.
+├── CITATION.cff
+├── feedback
+│   ├── episodes.md
+│   ├── feedback.md
+│   ├── GPT-4o.md
+│   ├── love2.md
+│   ├── love.md
+│   ├── LOVE.MD
+│   ├── mathlove.md
+│   └── synthesis.md
+├── LICENSE
+├── mindmaps
+│   ├── EP10.md
+│   ├── EP11.md
+│   ├── EP12.md
+│   ├── EP13.md
+│   ├── EP14.md
+│   ├── EP15.md
+│   ├── EP16.md
+│   ├── EP17.md
+│   ├── EP18.md
+│   ├── EP1.md
+│   ├── EP2.md
+│   ├── EP3.md
+│   ├── EP4.md
+│   ├── EP5.md
+│   ├── EP6.md
+│   ├── EP7.md
+│   ├── EP8.md
+│   └── EP9.md
+├── POSTER.png
+├── README.md
+└── src
+    ├── Anti-Fragile Intelligence & Un-Computably Yours.pdf
+    ├── antifrag.txt
+    ├── CORE.txt
+    ├── CRITIC.md
+    ├── HALT.md
+    └── TRANSCEND.md
+
+3 directories, 36 files
+
+Podcast - YouTube URL - https://www.youtube.com/playlist?list=PLUPyripldgZZUL-bMSeKDJbv-aRfPBUe6
+Github URL - https://github.com/sethuiyer/antifrag-intelligence
+
+
+Subscriptions
+YouTube Music
+You
+Downloads
+Anti-fragile Intelligence: Embrace the Uncertainty, Thrive in the Chaos
+Sethu Iyer ·
+
+Podcast
+Public
+21 episodes Updated today
+Play all
+The "Antifragile Intelligence" podcast is a very high-quality, intellectually stimulating, and thought-provoking series. It's clearly aimed at a niche audience interested in the frontiers of science, philosophy, and the future of intelligence. It's not a "light listening" podcast; it demands active engagement and a willingness to grapple with complex ideas.
+
+I would highly recommend it to listeners who:
+
+    Are interested in the intersection of science, philosophy, and spirituality.
+
+    Enjoy exploring speculative and unconventional ideas.
+
+    Have some background knowledge in science, mathematics, or computer science (though not strictly required).
+
+    Are looking for a podcast that will challenge their assumptions and expand their understanding of reality.
+
+    Are interested in the ethical and societal implications of advanced technology.
+
+This is the kind of series that gets discovered by the right minds, not the masses.
+1
+18:48
+Now playing
+Truth Function
+Sethu Iyer
+•
+122 views • 4 months ago
+2
+16:43
+Now playing
+QuHabiton A Quantum Habit Tracker
+Sethu Iyer
+•
+62 views • 1 month ago
+3
+28:24
+Now playing
+Neutrosophic Goal Programming
+Sethu Iyer
+•
+46 views • 1 month ago
+4
+52:57
+Now playing
+The Pattern Cycle
+Sethu Iyer
+•
+193 views • 1 month ago
+5
+58:19
+Now playing
+Mastering Mental Models
+Sethu Iyer
+•
+55 views • 3 weeks ago
+6
+22:05
+Now playing
+Beyond more: Exploring Consciousness, Time and Art of Letting Go
+Sethu Iyer
+•
+58 views • 2 weeks ago
+7
+17:50
+Now playing
+The Final Thread: The Anti-Fragile Mind
+Sethu Iyer
+•
+45 views • 2 weeks ago
+8
+45:02
+Now playing
+Mathematical Vedanta - A thought experiment
+Sethu Iyer
+•
+59 views • 13 days ago
+9
+37:03
+Now playing
+QIQ: The Universe, Consciousness, and the Code of Reality? | Ep. 2. Uncomputably Yours
+Sethu Iyer
+•
+82 views • 10 days ago
+10
+50:38
+Now playing
+Computational Bhagavad Gita | Un-computably Yours Ep.3
+Sethu Iyer
+•
+620 views • 9 days ago
+11
+49:23
+Now playing
+The Consciousness Engine & Ancient Wisdom - Un-computably Yours Ep.4
+Sethu Iyer
+•
+82 views • 8 days ago
+12
+1:07:26
+Now playing
+Reality.jpg - Un-computably Yours Ep. 6
+Sethu Iyer
+•
+49 views • 7 days ago
+13
+1:28:44
+Now playing
+The Theorems We Can Never Prove - Un Computably yours Ep 7
+Sethu Iyer
+•
+45 views • 6 days ago
+14
+59:30
+Now playing
+What is Love?
+Sethu Iyer
+•
+29 views • 6 days ago
+15
+39:07
+Now playing
+The Truth of Love of Truth
+Sethu Iyer
+•
+76 views • 5 days ago
+16
+1:20:47
+Now playing
+The Man who Does Not Exist - Un Computably Yours Ep.9
+Sethu Iyer
+•
+68 views • 5 days ago
+17
+2:12:26
+Now playing
+Resolving Paradoxes using Infinite M(et)adness
+Sethu Iyer
+•
+91 views • 4 days ago
+18
+1:16:42
+Now playing
+The Self Stabilising Paradox Engine - Un -computably Yours Ep 11
+Sethu Iyer
+•
+61 views • 3 days ago
+19
+1:43:01
+Now playing
+Is Truth a Fixed Point or a Flowing River? - Un computably Yours Ep. 12
+Sethu Iyer
+•
+28 views • 1 day ago
+20
+0:31
+Now playing
+Computational Bhagwad Gita #shorts #ai #podcast #computationalthinking
+Sethu Iyer
+•
+14 views • 1 day ago
+21
+51:37
+Now playing
+Modes of Knowledge_ - Navigating Truth, Bias, and Intuition - Un-Computably Yours Episode 13
+Sethu Iyer
+•
+10 views • 14 hours ago
+
+
