@@ -65,7 +65,7 @@ Your insights, critiques, and creative ideas are welcome. To contribute or provi
 
 ## Acknowledgements
 
-We extend our gratitude to the community of researchers, philosophers, technologists, and visionaries whose relentless curiosity and passion for discovery have shaped this journey. Their work continues to inspire us to push the boundaries of what is knowable.
+We extend our gratitude to the community of researchers, philosophers, technologists, and visionaries whose relentless curiosity and passion for discovery have shaped this journey. Their work continues to inspire us to push the boundaries of what is knowable. I would also like to thank the courses mentioned in https://github.com/sethuiyer/vedanta-open-course.
 
 ---
 
