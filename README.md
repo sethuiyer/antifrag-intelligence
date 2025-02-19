@@ -1,6 +1,8 @@
 # **Antifragile Intelligence & Uncomputably Yours**  
 *A Deep Exploration of Intelligence, Computation, and Consciousness*
 
+![img](./POSTER.png)
+
 **Anti-Fragile Intelligence & Un-Computably Yours** is an [e-book](https://github.com/sethuiyer/antifrag-intelligence/blob/main/src/Anti-Fragile%20Intelligence%20%26%20Un-Computably%20Yours.pdf) and a [podcast](https://www.youtube.com/watch?v=0Za51Lw95Uw&list=PLUPyripldgZZUL-bMSeKDJbv-aRfPBUe6) that dares to explore the outer limits of computation, consciousness, and creativity. Merging insights from advanced mathematics, quantum physics, artificial intelligence, and ancient spiritual wisdom, this work invites you to reimagine what it means to be intelligent in an unpredictable, ever-evolving universe.
 
 ## Overview
